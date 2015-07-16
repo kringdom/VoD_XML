@@ -1,0 +1,3 @@
+#MODULE-NAME: Widgets
+#MODULE-SUMMARY: this is a test and it is on line one. 
+#MODULE-RUNTIME: 07:11
